@@ -15,7 +15,7 @@ def derivative(x):
 	print(slope)
 	return slope
 
-action = float(raw_input("To find the derivative for f(x). Please enter the value of x here> "))
+action = float(raw_input("To find the derivative for f(x) = x^2. Please enter the value of x here> "))
 
 derivative(action)
 
